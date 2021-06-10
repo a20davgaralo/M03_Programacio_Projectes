@@ -1,0 +1,114 @@
+ONGI ETORRI LOTERIA AUKERETARA
+1. Egiaztatu zozketak
+2. Collak
+3. Aldatu hizkuntza
+Aukeratu aukera bat
+Fitxategia sortzen
+Fitxategia irakurtzen
+Errorea fitxategia irekitzean
+A, zer zorte txarra, zenbakia
+ez du saririk. Osasuna behintzat badugu
+ONGI ETORRI GABONETAKO LOTERIAREN IRAUPENETARA
+Zozketa egiten hasteko sakatu 'Sartu' tekla:
+Zozketarekin hasiko gara
+Gizon gizena atera zen !!!!! At
+ordu !!! Aurten oso banatua izan da !!!
+Bigarren saria dugu !!!! Jende asko pozik egongo da !!!
+Hirugarren saria iristen da !!!
+Laugarren sarietako bat !!
+Bosgarren sarietako bat!
+Zenbakia
+saria du
+euro serieko
+Zozketarekin jarraitzeko sakatu 'Sartu' tekla:
+Orain arte aurtengo Gabonetako Loteriaren zozketa
+Zorionak irabazleei eta osasun ona zortea izan ez dutenentzat
+Sari nagusiak hemen erakusten dira
+Sari txikia
+Lehen saria
+Bigarren saria
+Hirugarren saria
+Laugarren saria
+Bosgarren saria
+Saria
+euro / k
+Lehenengo sarira gerturatzea
+Bigarren sarira gerturatzea
+Hirugarren sarira gerturatzea
+Lehenengo hamarrekoak
+Hamarreko bigarren saria
+Hirugarren sariaren hamarrekoak
+Ehunka lehen saria
+Ehunka bigarren saria
+Ehunka hirugarren saria
+Itzulketa
+Zer zorte!
+saria da
+Dagozkie
+serie bakoitzeko euro eta irabazi egin duzu
+euro zure
+euro jokatu
+kontsolazio saria du
+Saria guztira honakoa da
+Idatzi taldearen izena
+Errorea, taldearen izena ez da existitzen
+Zenbat lagun gehitu nahi dituzu taldean
+Idatzi osagaiaren / kidearen izena
+4. Itxi programa
+Zer aldatu nahi duzu?
+Urtea (idatzi urtea)
+Kide izena (izena idatzi)
+Erreproduzitutako zenbakia (idatzi zenbakia)
+Jokatutako kopurua (idatzi zenbatekoa)
+Idatzi taldearen osagaiaren izena
+Idatzi izen berria
+Osagaiaren izena aldatu da
+Osagaia
+ez da taldean existitzen
+Zenbakia aldatu da
+Zenbatekoa aldatu da
+Aukera okerra
+zer ezabatu nahi duzu
+Kendu da
+Taldeko urtea
+Irekitzeko fitxategi izena
+Ren Jackpot
+Sari txikiagoa
+Kontsolazio saria
+TALDEA
+URTEA
+KIDEAK
+EKARPEN GUZTIRA
+GUZTIRA SARIA
+IZENA
+Zenbakia
+IND EKARPENA
+IND SARIA
+Ezabatutako taldea
+Ezin izan da taldea ezabatu
+Sartu zozketa urtean
+Urtea ezin da 1812 baino txikiagoa edo 2020 baino handiagoa izan
+Beste zenbaki bat egiaztatu nahi duzu?
+Idatzi (Bai) jarraitu nahi baduzu eta (Ez) bestela
+Errorea. Bai edo Ez idatzi behar duzu
+Idatzi jolasten duzun zenbakia
+Sartutako zenbakia okerra da, 0 eta 99999 artean egon behar du
+Idatzi jokatzen duzun zenbatekoa
+Sartutako zenbatekoa ez da zuzena
+Taldeko menua
+1. Sortu talde bat
+2. Gehitu kideak taldera
+3. Aldatu taldekideen datuak
+4. Kendu kide bat taldetik
+5. Begiratu talde baten sariak
+6. Ezabatu talde bat
+7. Joan atzera
+Sartu erreproduzitutako kopurua
+Kopuruak 5ren multiploa izan behar du,
+gutxienez 5 euro eta gehienez 60 euro
+Taldea
+dagoeneko badago
+Sartutako kopurua zenbatekoa baino handiagoa da
+taldean sartzen diren lagunena. Badaude
+posizio libreak
+Hizkuntza aldatu

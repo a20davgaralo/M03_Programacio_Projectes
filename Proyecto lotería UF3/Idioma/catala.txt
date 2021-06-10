@@ -1,0 +1,114 @@
+BENVINGUT A LES OPCIONS DE LA LOTERIA
+1. Comprovar sorteig
+2. Colles
+3. Canviar idioma
+Tria una opció
+Generant arxiu
+Llegint arxiu
+Error al obrir l'arxiu
+Oh, que mala sort, el nombre
+no té premi. Almenys tenim salut
+BENVINGUTS A EL SORTEIG DE LA LOTERIA DE NADAL
+Prem la tecla 'Intro' per començar el sorteig:
+Comencem amb el sorteig
+Ha sortit la grossa !!!!! 'A les
+hores !!! 'Aquest any ha estat molt repartit !!!
+Tenim segon premi !!!! 'Molta gent serà feliç !!!
+Arriba el tercer premi !!!
+Un dels quarts premis !!
+Un dels cinquens premis!
+el nombre
+té un premi de
+euros per sèrie
+Prem la tecla 'Intro' per a continuar amb el sorteig:
+I fins aquí el sorteig de la Loteria de Nadal d'enguany
+Enhorabona als premiats i molta salut per als que no han estat afortunats
+Aquí es mostren els premis majors
+Premi menor
+Primer premi
+Segon premi
+Tercer premi
+Quart premi
+Cinquè premi
+Premi
+Euro / s
+Aproximació al primer premi
+Aproximació al segon premi
+Aproximació al tercer premi
+Desenes del primer premi
+Desenes del segon premi
+Desenes del tercer premi
+Centenars del primer premi
+Centenars del segon premi
+Centenars del tercer premi
+reintegrament
+Quina sort!
+és el premi
+li corresponen
+euros per sèrie i has guanyat
+euros per les teves
+euros jugats
+té el premi de consolació
+El premi total ascendeix a
+Introdueix el nom del grup
+Error, el nom de el grup no existeix
+Quants amics vols afegir al grup
+Introdueix el nom del component / membre
+4. Tancar programa
+Qué vols modificar?
+Any (escriu any)
+Nom del membre (escriu nom)
+Nombre jugat (escriu numero)
+Quantitat jugada (escriu quantitat)
+Introdueix el nom del component del grup
+Introdueix el nou nom
+El nom del component s'ha canviat
+el component
+no hi ha al grup
+El nombre ha estat canviat
+La quantitat ha estat canviada
+opció incorrecta
+que vols eliminar
+eliminat
+Any del grup
+Nom de l'arxiu a obrir
+Premi més gran de
+Premi menor de
+Premi / s de consolació de
+GRUP
+ANY
+MEMBRES
+APORTACIÓ TOTAL
+PREMI TOTAL
+NOM
+NOMBRE
+APORTACIÓ IND
+PREMI IND
+grup eliminat
+Error a l'eliminar el grup
+Introdueix un any de sorteig
+L'any no pot ser inferior a 1812 ni superior a 2020
+Vols comprovar un altre número?
+Escriu (Si) en cas de voler continuar (No) en el cas contrari
+Error. Has d'escriure Si o No
+Introdueix el número que jugues
+El nombre introduït és incorrecte, ha d'estar comprès entre 0 i 99999
+Introdueix la quantitat que jugues
+La quantitat introduïda és incorrecta
+Pagina el grup
+1. Crear un grup
+2. Afegir membres al grup
+3. Modificar dades dels membres del grup
+4. Eliminar a un membre del grup
+5. Comprovar els premis d'un grup
+6. Suprimir un grup
+7. Retrocedir
+Introdueix la quantitat jugada
+La quantitat ha de ser múltiple de 5,
+amb un mínim de 5 euros i un màxim de 60 euros
+el grup
+ja existeix
+El nombre introduït és superior a la quantitat
+d'amics que caben en el grup. hi ha
+llocs lliures
+canviar idioma

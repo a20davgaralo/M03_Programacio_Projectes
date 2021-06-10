@@ -1,0 +1,114 @@
+BENVIDO ÁS OPCIÓNS DA LOTERÍA
+1. Comprobe os sorteos
+2. Agrupacións
+3. Cambia o idioma
+Escolla unha opción
+Xerando ficheiro
+Ficheiro de lectura
+Erro ó abrir o ficheiro
+Ah, que mala sorte, o número
+non ten premio. Polo menos temos saúde
+BENVIDO O SORTEO DA LOTERÍA DE NADAL
+Preme a tecla "Intro" para iniciar o sorteo:
+Comezamos coa rifa
+O gordo saíu!!!!! En
+horas!!! Este ano estivo moi repartido!!!
+Temos o segundo premio!!!! Moita xente estará feliz!!!
+Chega o terceiro premio!!!
+Un dos cuartos premios!!
+Un dos quintos premios!
+O número
+ten un premio de
+euros á serie
+Preme a tecla "Intro" para continuar co sorteo:
+E no que vai de sorteo da Lotería de Nadal deste ano
+Parabéns (aos) ós gañadores e moita saúde para os que non tiveron sorte
+Os mellores premios móstranse aquí
+Premio menor
+Primeiro premio
+Segundo premio
+Terceiro premio
+Cuarto premio
+Quinto premio
+Premio
+euros/s
+Aproximación ó primeiro premio
+Aproximación ó segundo premio
+Aproximación ó terceiro premio
+Decenas do primeiro premio
+Decenas do segundo premio
+Decenas do terceiro premio
+Centos do primeiro premio
+Centos do segundo premio
+Centos de terceiros premios
+Reembolso
+Que sorte!
+é o premio
+Corresponden
+euros por serie e gañaches
+euros para o seu
+euros xogados
+ten o accésit
+O premio total ascende a
+Introduza o nome do grupo
+Erro, o nome do grupo non existe
+Cantos amigos queres engadir ó grupo
+Introduza o nome do compoñente/membro
+4. Pechar programa
+Que queres modificar?
+Ano (ano de escritura)
+Nome do membro (escribir nome)
+Número reproducido (escribir número)
+Cantidade xogada (cantidade de escritura)
+Introduza o nome do compoñente do grupo
+Introduza o novo nome
+Cambiouse o nome do compoñente
+O compoñente
+non existe no grupo
+Cambiouse o número
+Cambiouse a cantidade
+Opción incorrecta
+que queres eliminar
+Eliminado
+Ano de grupo
+Nome do ficheiro para abrir
+Jackpot de
+Premio inferior de
+Premio/s de Accésit de
+GRUPO
+ANO
+MEMBROS
+ACHEGA TOTAL
+PREMIO TOTAL
+NOME
+Número
+CONTRIBUCIÓN IND
+PREMIO IND
+Eliminouse o grupo
+Non se puido eliminar o grupo
+Introduce un ano de sorteo
+O ano non pode ser inferior a 1812 nin superior a 2020
+¿Queres comprobar outro número?
+Escribe (Si) se queres continuar e (Non) doutro xeito
+Erro. Debes escribir Si ou Non
+Introduce o número ao que xogas
+O número introducido é incorrecto, debe estar entre 0 e 99999
+Introduce a cantidade que xogas
+A cantidade introducida é incorrecta
+Menú de grupo
+1. Crea un grupo
+2. Engade membros ó grupo
+3. Modificar os datos dos membros do grupo
+4. Elimina un membro do grupo
+5. Comprobe os premios dun grupo
+6. Elimina un grupo
+7. Volve atrás
+Introduce a cantidade xogada
+A cantidade ten que ser múltiplo de 5,
+cun mínimo de 5 euros e un máximo de 60 euros
+O grupo
+ya existe
+O número introducido é superior á cantidad
+de amigos que caben no grupo. Hay
+postos libres
+Cambiar idioma

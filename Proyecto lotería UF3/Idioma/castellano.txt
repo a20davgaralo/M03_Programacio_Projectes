@@ -1,0 +1,114 @@
+BIENVENIDO A LAS OPCIONES DE LA LOTERIA
+1. Comprobar sorteo
+2. Collas
+3. Cambiar idioma
+Elige una opcion
+Generando archivo
+Leyendo archivo
+Error al abrir el archivo
+Oh, que mala suerte, el numero
+no tiene premio. Por lo menos tenemos salud
+BIENVENIDOS AL SORTEO DE LA LOTERIA DE NAVIDAD
+Pulsa la tecla 'Intro' para comenzar el sorteo:
+Comenzamos con el sorteo
+¡¡¡¡¡Salió el gordo!!!!! ¡¡¡A las
+horas!!! ¡¡¡Este año ha sido muy repartido!!!
+¡¡¡¡Tenemos segundo premio!!!! ¡¡¡Mucha gente será feliz!!!
+¡¡¡Llega el tercer premio!!!
+¡¡Uno de los cuartos premios!!
+¡Uno de los quintos premios!
+El numero
+tiene un premio de
+euros a la serie
+Pulsa la tecla 'Intro' para continuar con el sorteo:
+Y hasta aquí el sorteo de la Loteria de Navidad de este año
+Enhorabuena a los premiados y mucha salud para los que no han sido afortunados
+Aquí se muestran los premios mayores
+Premio menor
+Primer premio
+Segundo premio
+Tercer premio
+Cuarto premio
+Quinto premio
+Premio
+euro/s
+Aproximación al primer premio
+Aproximación al segundo premio
+Aproximación al tercer premio
+Decenas del primer premio
+Decenas del segundo premio
+Decenas del tercer premio
+Centenas del primer premio
+Centenas del segundo premio
+Centenas del tercer premio
+Reintegro
+¡Menuda suerte!
+es el premio
+Le corresponden
+euros por serie y has ganado
+euros por tus
+euros jugados
+tiene el premio de consolación
+El premio total asciende a
+Introduce el nombre del grupo
+Error, el nombre del grupo no existe
+¿Cuantos amigos quieres agregar al grupo
+Introduce el nombre del componente/miembro
+4. Cerrar programa
+¿Que deseas modificar?
+Año (escribe anyo)
+Nombre del miembro (escribe nombre)
+Número jugado (escribe numero)
+Cantidad jugada (escribe cantidad)
+Introduce el nombre del componente del grupo
+Introduce el nuevo nombre
+El nombre del componente se ha cambiado
+El componente
+no existe en el grupo
+El numero ha sido cambiado
+La cantidad ha sido cambiada
+Opción incorrecta
+que quieres eliminar
+Eliminado
+Año del grupo
+Nombre del archivo a abrir
+Premio mayor de
+Premio menor de
+Premio/s de consolación de
+GRUPO
+AÑO
+MIEMBROS
+APORTACION TOTAL
+PREMIO TOTAL
+NOMBRE
+NúMERO
+APORTACION IND
+PREMIO IND
+Grupo eliminado
+Error al eliminar el grupo
+Introduce un año de sorteo
+El año no puede ser inferior a 1812 ni superior a 2020
+¿Quieres comprobar otro número? 
+Escribe (Si) en caso de querer continuar y (No) en el caso contrario
+Error. Debes escribir Si o No
+Introduce el numero que juegas
+El numero introducido es incorrecto, debe estar comprendido entre 0 y 99999
+Introduce la cantidad que juegas
+La cantidad introducida es incorrecta
+Menu del grupo
+1. Crear un grupo
+2. Añadir miembros al grupo
+3. Modificar datos de los miembros del grupo
+4. Eliminar a un miembro del grupo
+5. Comprobar los premios de un grupo
+6. Eliminar un grupo
+7. Retroceder
+Introduce la cantidad jugada
+La cantidad tiene que ser múltiplo de 5, 
+con un minimo de 5 euros y un maximo de 60 euros
+El grupo
+ya existe
+El numero introducido es superior a la cantidad
+de amigos que caben en el grupo. Hay
+puestos libres
+Cambiar idioma
